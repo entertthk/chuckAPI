@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\chuckAPI.exe.config
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\chuckAPI.exe
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\chuckAPI.pdb
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\obj\Debug\chuckAPI.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\obj\Debug\chuckAPI.csproj.CopyComplete
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\obj\Debug\chuckAPI.exe
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\obj\Debug\chuckAPI.pdb
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\Nancy.dll
+C:\Users\Laptop\Desktop\chuckAPI\chuckAPI\chuckAPI\bin\Debug\Nancy.xml
